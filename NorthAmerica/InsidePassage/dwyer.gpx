@@ -8,7 +8,7 @@
  http://www.garmin.com/xmlschemas/TrackPointExtension/v1
  http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
  <metadata>
-    <author>Dennis Dwyer</author>
+    <author>Denis Dwyer</author>
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
