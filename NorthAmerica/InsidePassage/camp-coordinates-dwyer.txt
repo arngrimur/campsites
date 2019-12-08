@@ -1,0 +1,137 @@
+Bellingham Washington - Launch Site 48° 43.135 N x 122° 30.947 W
+Matia Island - Rolfe Cove 48° 44.864 N x 122° 50.542 W
+Patos Island - Active Cove 48° 47.043 N x 122° 57.718 W
+British Columbia South Pender Island - Beaumont Park 48° 45.269 N x 123° 14.459 W
+Wallace Island - Conover Cove 48° 56.303 N x 123° 32.655 W
+DeCourcy Island - Pirates Cove 49° 05.640 N x 123° 43.564 W
+Nanaimo - Newcastle Island Park 49° 10.982 N x 123° 55.606 W
+Southey Island 49° 16.611 N x 124° 06.277 W
+Vancouver Island, Qualicum River Campground 49° 23.903 N x 124° 36.618 W
+Sandy Island 49° 37.093 N x 124° 51.055 W
+Vancouver Island - Kitty Coleman Park 49° 47.290 N x 124° 59.715 W
+Vancouver Island - Kuhushan Point 49° 52.921 N x 125° 06.921 W
+Campbell River - Thunderbird Campground 50° 02.453 N x 125° 14.924 W
+Quadra Island - Ashlar Creek 50° 16.040 N x 125° 21.311 W
+Vancouver Island - Little Bear Bay 50° 20.301 N x 125° 31.028 W
+Sayward - Kelsey Bay 50° 23.839 N x 125° 57.695 W
+Vancouver Island - Naka Creek 50° 28.645 N x 126° 25.660 W
+Flower Island 50° 36.022 N x 126° 42.342 W
+Broughton Island - Dobbin Bay 50° 47.081 N x 126° 48.222 W
+BC Mainland - Boyles Point 50° 49.061 N x 127° 01.077 W
+BC Mainland - Shelter Bay 50° 58.610 N x 127° 27.633 W
+Bramham Island - Skull Cove 51° 02.852 N x 127° 33.778 W
+BC Mainland - Burnett Bay 51° 06.300 N x 127° 40.373 W
+BC Mainland Open Bight 51° 21.978 N x 127° 46.192 W
+Fury Island 51° 29.138 N x 127° 45.694 W
+Hecate Island Kelpie Point 51° 43.539 N x 128° 00.457 W
+Hunter Island - Cultus Sound 51° 53.817 N x 128° 14.103 W
+Denny Island - Shearwater 52° 08.850 N x 128° 05.343 W
+Roar Islet 52° 17.181 N x 128° 23.075 W
+Price Island - Higgins Passage 52° 28.519 N x 128° 45.328 W
+Milne Island 52° 36.764 N x 128° 46.250 W
+Sager Island 52° 53.995 N x 129° 09.105 W
+Campania Island 53° 03.026 N x 129° 26.865 W
+Pitt Island - Monckton Inlet 53° 18.232 N x 129° 40.853 W
+Pitt Island - Mink Trap Point 53° 27.009 N x 129° 51.772 W
+McCauley Island - Petrel Channel Elbow 53° 42.481 N x 130° 11.709 W
+Porcher Island - Oona River 53° 57.052 N x 130° 15.795 W
+Kitson Island 54° 10.724 N x 130° 18.816 W
+Prince Rupert - Rowing and Yacht Club (PRRYC) 54° 19.154 N x 130° 19.079 W
+South Island 54° 29.166 N x 130° 27.921 W
+Proctor Island 54° 43.109 N x 130° 35.737 W
+Alaska Alaska Mainland - Tree Point 54° 48.159 N x 130° 55.525 W
+Kah Shakes Island 55° 03.401 N x 130° 59.457 W
+Revillagigedo Island - Cone Point 55° 14.126 N x 131° 17.843 W
+Ketchikan - Bar Harbor 55° 21.094 N x 131° 41.026 W
+Revillagigedo Island - Point Higgins 55° 27.602 N x 131° 57.475 W
+Alaska mainland -island off Caamano Point 55° 30.274 N x 131° 57.475 W
+Alaska mainland - Meyers Chuck 55° 44.386 N x 132° 15.329 W
+Change Island 55° 58.466 N x 132° 00.513 W
+Turn Island 56° 14.290 N x 132° 20.288 W
+Wrangell Harbor 56° 27.990 N x 132° 22.967 W
+Mitkof Island - Crab Pot 56° 40.822 N x 132° 39.926 W
+Petersburg Harbor 56° 48.789 N x 132° 57.556 W
+Alaska mainland - Wood Point 56° 59.555 N x 132° 56.977 W
+Read Island 57° 06.228 N x 133° 11.637 W
+Alaska mainland - Cape Fanshaw 57° 11.160 N x 133° 34.342 W
+Island in Hobart Bay 57° 25.661 N x 133° 28.019 W
+Alaska mainland - Sand Bay 57° 40.685 N x 133° 39.707 W
+Alaska mainland - Point Anmer 57° 55.934 N x 133° 50.710 W
+Alaska mainland - Taku Inlet 58° 10.603 N x 134° 03.959 W
+Juneau - Aurora Harbor 58° 18.285 N x 134° 25.965 W
+Auke Bay - Campground 58° 22.660 N x 134° 43.473 W
+Alaska mainland - Point Bridget 58° 40.708 N x 134° 59.144 W
+Alaska mainland - Bay Southeast of Eldred Rock 58° 56.355 N x 135° 10.458 W
+Haines - Oceanside Campground 59° 14.109 N x 135° 26.488 W
+Skagway - Pullen Creek Campground 59° 27.033 N x 135° 19.001 W
+Small Pox Bay, San Juan Island 48° 32.494 N x 123° 09.594 W
+Prevost Harbor, Stuart Island 48° 40.670 N x 123° 11.980 W
+James Bay, Prevost Island 48° 50.394 N x 123° 23.953 W
+Blackberry Point, Valdes Island 49° 03.388 N x 123° 39.382 W
+Newcastle Island, Nanaimo 49° 11.138 N x 123° 55.559 W
+South Ballenas Island 49° 20.277 N x 124° 08.966 W
+Texada Island 49° 31.375 N x 124° 11.917 W
+Texada Island 49° 36.830 N x 124° 24.590 W
+Harwood Point, Texada Island 49° 39.255 N x 124° 27.924 W
+Grisle Point, Texada Island 49° 48.149 N x 124° 36.371 W
+Willingdon Beach, Powell River 49° 50.870 N x 124° 31.942 W
+Copeland Islands 50° 01.580 N x 124° 49.494 W
+North Rendezvous Island 50° 17.788 N x 125° 04.655 W
+Big Bay, Stuart Island 50° 23.534 N x 125° 08.055 W
+Cordero Lodge 50° 26.791 N x 125° 27.097 W
+Hardwicke Island 50° 26.971 N x 125° 54.839 W
+Broken Islands 50° 30.838 N x 126° 17.727 W
+Johnstone Strait 50° 30.522 N x 126° 39.603 W
+Alder Bay 50° 33.550 N x 126° 54.807 W
+Peel Island 50° 43.603 N x 127° 24.322 W
+Scotia Bay, Port Hardy 50° 44.634 N x 127° 29.783 W
+Sunny Sanctuary, Port Hardy 50° 41.954 N x 127° 28.811 W
+Shelter Bay 50° 58.611 N x 127° 27.634 W
+Skull Cove 51° 02.935 N x 127° 33.855 W
+Smith Sound, Red Sand Beach 51° 15.341 N x 127° 42.829 W
+Rivers Inlet, Duncanby Marina 51° 24.319 N x 127° 38.743 W
+Fitz Hugh Sound, Shell Beach 51° 40.941 N x 127° 52.829 W
+Namu 51° 51.618 N x 127° 52.129 W
+Shearwater 52° 08.843 N x 128° 05.384 W
+Roar Islet in Blair Inlet 52° 17.183 N x 128° 23.072 W
+Rescue Bay, Susan Island 52° 30.719 N x 128° 17.089 W
+Klemtu 52° 35.606 N x 128° 31.369 W
+Green Inlet 52° 55.183 N x 128° 29.100 W
+Butedale 53° 09.607 N x 128° 41.720 W
+Gribbell Island 53° 19.066 N x 129° 08.052 W
+Hartley Bay 53° 25.462 N x 129° 15.037 W
+Mosley Point 53° 28.415 N x 129° 29.152 W
+Nabannah Bay 53° 40.182 N x 129° 45.441 W
+River opposite Northness Point 53° 45.761 N x 129° 55.751 W
+Oona River 53° 57.045 N x 130° 15.791 W
+Kitson Island 54° 10.725 N x 130° 18.810 W
+Prince Rupert 54° 18.971 N x 130° 19.162 W
+North of Ryan Point 54° 23.650 N x 130° 28.767 W
+Flewin Point 54° 36.535 N x 130° 26.354 W
+Kanagunut Island, Alaska 54° 43.898 N x 130° 41.312 W
+Cape Fox 54° 46.041 N x 130° 50.954 W
+Northwest Cape Fox 54° 47.002 N x 130° 53.845 W
+Kah Shakes Point 55° 04.125 N x 130° 59.063 W
+Cone Point 55° 14.165 N x 131° 17.826 W
+Ketchikan 55° 20.611 N x 131° 38.864 W
+Point Higgins 55° 27.499 N x 131° 49.844 W
+Niblack Point 55° 32.867 N x 132° 05.846 W
+Myers Chuck 55° 44.339 N x 132° 15.340 W
+Change Island 55° 58.465 N x 132° 00.514 W
+Blake Island 56° 13.518 N x 131° 55.903 W
+Wrangell 56° 28.499 N x 132° 23.362 W
+Mitkof Island 56° 43.174 N x 132° 44.541 W
+Petersburg 56° 48.829 N x 132° 57.403 W
+Northwest of Thomas Bay 57° 03.434 N x 133° 01.084 W
+Whitney Island 57° 13.535 N x 133° 31.931 W
+Hobart Bay 57° 25.630 N x 133° 27.120 W
+Sand Bay 57° 40.695 N x 133° 39.736 W
+Point Anmer 57° 55.934 N x 133° 50.725 W
+North of Slocum Inlet 58° 10.262 N x 134° 05.119 W
+Juneau 58° 18.360 N x 134° 25.869 W
+Auke Bay Campground 58° 22.651 N x 134° 43.568 W
+Bridget Point 58° 40.705 N x 134° 59.177 W
+South of Point Sherman 58° 49.151 N x 135° 07.101 W
+Onshore near Eldred Rock 58° 56.352 N x 135° 10.457 W
+Haines 59° 14.108 N x 135° 26.482 W
+Skagway 59° 27.033 N x 135° 19.015 W

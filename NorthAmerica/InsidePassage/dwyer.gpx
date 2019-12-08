@@ -1,0 +1,154 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" 
+  xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" 
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"  
+ creator="Oregon 400t" 
+  version="1.1"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+ http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd
+ http://www.garmin.com/xmlschemas/TrackPointExtension/v1
+ http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+ <metadata>
+    <author>Dennis Dwyer</author>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-10-17T22:58:43Z</time>
+  </metadata>
+<wpt lat="48.718917" lon="-122.515783"><name>Bellingham Washington - Launch Site</name></wpt>
+<wpt lat="48.747733" lon="-122.842367"><name>Matia Island - Rolfe Cove</name></wpt>
+<wpt lat="48.784050" lon="-122.961967"><name>Patos Island - Active Cove</name></wpt>
+<wpt lat="48.754483" lon="-123.240983"><name>British Columbia South Pender Island - Beaumont Park</name></wpt>
+<wpt lat="48.938383" lon="-123.544250"><name>Wallace Island - Conover Cove</name></wpt>
+<wpt lat="49.094000" lon="-123.726067"><name>DeCourcy Island - Pirates Cove</name></wpt>
+<wpt lat="49.183033" lon="-123.926767"><name>Nanaimo - Newcastle Island Park</name></wpt>
+<wpt lat="49.276850" lon="-124.104617"><name>Southey Island</name></wpt>
+<wpt lat="49.398383" lon="-124.610300"><name>Vancouver Island, Qualicum River Campground</name></wpt>
+<wpt lat="49.618217" lon="-124.850917"><name>Sandy Island</name></wpt>
+<wpt lat="49.788167" lon="-124.995250"><name>Vancouver Island - Kitty Coleman Park</name></wpt>
+<wpt lat="49.882017" lon="-125.115350"><name>Vancouver Island - Kuhushan Point</name></wpt>
+<wpt lat="50.040883" lon="-125.248733"><name>Campbell River - Thunderbird Campground</name></wpt>
+<wpt lat="50.267333" lon="-125.355183"><name>Quadra Island - Ashlar Creek</name></wpt>
+<wpt lat="50.338350" lon="-125.517133"><name>Vancouver Island - Little Bear Bay</name></wpt>
+<wpt lat="50.397317" lon="-125.961583"><name>Sayward - Kelsey Bay</name></wpt>
+<wpt lat="50.477417" lon="-126.427667"><name>Vancouver Island - Naka Creek</name></wpt>
+<wpt lat="50.600367" lon="-126.705700"><name>Flower Island</name></wpt>
+<wpt lat="50.784683" lon="-126.803700"><name>Broughton Island - Dobbin Bay</name></wpt>
+<wpt lat="50.817683" lon="-127.017950"><name>BC Mainland - Boyles Point</name></wpt>
+<wpt lat="50.976833" lon="-127.460550"><name>BC Mainland - Shelter Bay</name></wpt>
+<wpt lat="51.047533" lon="-127.562967"><name>Bramham Island - Skull Cove</name></wpt>
+<wpt lat="51.105000" lon="-127.672883"><name>BC Mainland - Burnett Bay</name></wpt>
+<wpt lat="51.366300" lon="-127.769867"><name>BC Mainland Open Bight</name></wpt>
+<wpt lat="51.485633" lon="-127.761567"><name>Fury Island</name></wpt>
+<wpt lat="51.725650" lon="-128.007617"><name>Hecate Island Kelpie Point</name></wpt>
+<wpt lat="51.896950" lon="-128.235050"><name>Hunter Island - Cultus Sound</name></wpt>
+<wpt lat="52.147500" lon="-128.089050"><name>Denny Island - Shearwater</name></wpt>
+<wpt lat="52.286350" lon="-128.384583"><name>Roar Islet</name></wpt>
+<wpt lat="52.475317" lon="-128.755467"><name>Price Island - Higgins Passage</name></wpt>
+<wpt lat="52.612733" lon="-128.770833"><name>Milne Island</name></wpt>
+<wpt lat="52.899917" lon="-129.151750"><name>Sager Island</name></wpt>
+<wpt lat="53.050433" lon="-129.447750"><name>Campania Island</name></wpt>
+<wpt lat="53.303867" lon="-129.680883"><name>Pitt Island - Monckton Inlet</name></wpt>
+<wpt lat="53.450150" lon="-129.862867"><name>Pitt Island - Mink Trap Point</name></wpt>
+<wpt lat="53.708017" lon="-130.195150"><name>McCauley Island - Petrel Channel Elbow</name></wpt>
+<wpt lat="53.950867" lon="-130.263250"><name>Porcher Island - Oona River</name></wpt>
+<wpt lat="54.178733" lon="-130.313600"><name>Kitson Island</name></wpt>
+<wpt lat="54.319233" lon="-130.317983"><name>Prince Rupert - Rowing and Yacht Club (PRRYC)</name></wpt>
+<wpt lat="54.486100" lon="-130.465350"><name>South Island</name></wpt>
+<wpt lat="54.718483" lon="-130.595617"><name>Proctor Island</name></wpt>
+<wpt lat="54.802650" lon="-130.925417"><name>Alaska Alaska Mainland - Tree Point</name></wpt>
+<wpt lat="55.056683" lon="-130.990950"><name>Kah Shakes Island</name></wpt>
+<wpt lat="55.235433" lon="-131.297383"><name>Revillagigedo Island - Cone Point</name></wpt>
+<wpt lat="55.351567" lon="-131.683767"><name>Ketchikan - Bar Harbor</name></wpt>
+<wpt lat="55.460033" lon="-131.957917"><name>Revillagigedo Island - Point Higgins</name></wpt>
+<wpt lat="55.504567" lon="-131.957917"><name>Alaska mainland -island off Caamano Point</name></wpt>
+<wpt lat="55.739767" lon="-132.255483"><name>Alaska mainland - Meyers Chuck</name></wpt>
+<wpt lat="55.974433" lon="-132.008550"><name>Change Island</name></wpt>
+<wpt lat="56.238167" lon="-132.338133"><name>Turn Island</name></wpt>
+<wpt lat="56.466500" lon="-132.382783"><name>Wrangell Harbor</name></wpt>
+<wpt lat="56.680367" lon="-132.665433"><name>Mitkof Island - Crab Pot</name></wpt>
+<wpt lat="56.813150" lon="-132.959267"><name>Petersburg Harbor</name></wpt>
+<wpt lat="56.992583" lon="-132.949617"><name>Alaska mainland - Wood Point</name></wpt>
+<wpt lat="57.103800" lon="-133.193950"><name>Read Island</name></wpt>
+<wpt lat="57.186000" lon="-133.572367"><name>Alaska mainland - Cape Fanshaw</name></wpt>
+<wpt lat="57.427683" lon="-133.466983"><name>Island in Hobart Bay</name></wpt>
+<wpt lat="57.678083" lon="-133.661783"><name>Alaska mainland - Sand Bay</name></wpt>
+<wpt lat="57.932233" lon="-133.845167"><name>Alaska mainland - Point Anmer</name></wpt>
+<wpt lat="58.176717" lon="-134.065983"><name>Alaska mainland - Taku Inlet</name></wpt>
+<wpt lat="58.304750" lon="-134.432750"><name>Juneau - Aurora Harbor</name></wpt>
+<wpt lat="58.377667" lon="-134.724550"><name>Auke Bay - Campground</name></wpt>
+<wpt lat="58.678467" lon="-134.985733"><name>Alaska mainland - Point Bridget</name></wpt>
+<wpt lat="58.939250" lon="-135.174300"><name>Alaska mainland - Bay Southeast of Eldred Rock</name></wpt>
+<wpt lat="59.235150" lon="-135.441467"><name>Haines - Oceanside Campground</name></wpt>
+<wpt lat="59.450550" lon="-135.316683"><name>Skagway - Pullen Creek Campground</name></wpt>
+<wpt lat="48.541567" lon="-123.159900"><name>Small Pox Bay, San Juan Island</name></wpt>
+<wpt lat="48.677833" lon="-123.199667"><name>Prevost Harbor, Stuart Island</name></wpt>
+<wpt lat="48.839900" lon="-123.399217"><name>James Bay, Prevost Island</name></wpt>
+<wpt lat="49.056467" lon="-123.656367"><name>Blackberry Point, Valdes Island</name></wpt>
+<wpt lat="49.185633" lon="-123.925983"><name>Newcastle Island, Nanaimo</name></wpt>
+<wpt lat="49.337950" lon="-124.149433"><name>South Ballenas Island</name></wpt>
+<wpt lat="49.522917" lon="-124.198617"><name>Texada Island</name></wpt>
+<wpt lat="49.613833" lon="-124.409833"><name>Texada Island</name></wpt>
+<wpt lat="49.654250" lon="-124.465400"><name>Harwood Point, Texada Island</name></wpt>
+<wpt lat="49.802483" lon="-124.606183"><name>Grisle Point, Texada Island</name></wpt>
+<wpt lat="49.847833" lon="-124.532367"><name>Willingdon Beach, Powell River</name></wpt>
+<wpt lat="50.026333" lon="-124.824900"><name>Copeland Islands</name></wpt>
+<wpt lat="50.296467" lon="-125.077583"><name>North Rendezvous Island</name></wpt>
+<wpt lat="50.392233" lon="-125.134250"><name>Big Bay, Stuart Island</name></wpt>
+<wpt lat="50.446517" lon="-125.451617"><name>Cordero Lodge</name></wpt>
+<wpt lat="50.449517" lon="-125.913983"><name>Hardwicke Island</name></wpt>
+<wpt lat="50.513967" lon="-126.295450"><name>Broken Islands</name></wpt>
+<wpt lat="50.508700" lon="-126.660050"><name>Johnstone Strait</name></wpt>
+<wpt lat="50.559167" lon="-126.913450"><name>Alder Bay</name></wpt>
+<wpt lat="50.726717" lon="-127.405367"><name>Peel Island</name></wpt>
+<wpt lat="50.743900" lon="-127.496383"><name>Scotia Bay, Port Hardy</name></wpt>
+<wpt lat="50.699233" lon="-127.480183"><name>Sunny Sanctuary, Port Hardy</name></wpt>
+<wpt lat="50.976850" lon="-127.460567"><name>Shelter Bay</name></wpt>
+<wpt lat="51.048917" lon="-127.564250"><name>Skull Cove</name></wpt>
+<wpt lat="51.255683" lon="-127.713817"><name>Smith Sound, Red Sand Beach</name></wpt>
+<wpt lat="51.405317" lon="-127.645717"><name>Rivers Inlet, Duncanby Marina</name></wpt>
+<wpt lat="51.682350" lon="-127.880483"><name>Fitz Hugh Sound, Shell Beach</name></wpt>
+<wpt lat="51.860300" lon="-127.868817"><name>Namu</name></wpt>
+<wpt lat="52.147383" lon="-128.089733"><name>Shearwater</name></wpt>
+<wpt lat="52.286383" lon="-128.384533"><name>Roar Islet in Blair Inlet</name></wpt>
+<wpt lat="52.511983" lon="-128.284817"><name>Rescue Bay, Susan Island</name></wpt>
+<wpt lat="52.593433" lon="-128.522817"><name>Klemtu</name></wpt>
+<wpt lat="52.919717" lon="-128.485000"><name>Green Inlet</name></wpt>
+<wpt lat="53.160117" lon="-128.695333"><name>Butedale</name></wpt>
+<wpt lat="53.317767" lon="-129.134200"><name>Gribbell Island</name></wpt>
+<wpt lat="53.424367" lon="-129.250617"><name>Hartley Bay</name></wpt>
+<wpt lat="53.473583" lon="-129.485867"><name>Mosley Point</name></wpt>
+<wpt lat="53.669700" lon="-129.757350"><name>Nabannah Bay</name></wpt>
+<wpt lat="53.762683" lon="-129.929183"><name>River opposite Northness Point</name></wpt>
+<wpt lat="53.950750" lon="-130.263183"><name>Oona River</name></wpt>
+<wpt lat="54.178750" lon="-130.313500"><name>Kitson Island</name></wpt>
+<wpt lat="54.316183" lon="-130.319367"><name>Prince Rupert</name></wpt>
+<wpt lat="54.394167" lon="-130.479450"><name>North of Ryan Point</name></wpt>
+<wpt lat="54.608917" lon="-130.439233"><name>Flewin Point</name></wpt>
+<wpt lat="54.731633" lon="-130.688533"><name>Kanagunut Island, Alaska</name></wpt>
+<wpt lat="54.767350" lon="-130.849233"><name>Cape Fox</name></wpt>
+<wpt lat="54.783367" lon="-130.897417"><name>Northwest Cape Fox</name></wpt>
+<wpt lat="55.068750" lon="-130.984383"><name>Kah Shakes Point</name></wpt>
+<wpt lat="55.236083" lon="-131.297100"><name>Cone Point</name></wpt>
+<wpt lat="55.343517" lon="-131.647733"><name>Ketchikan</name></wpt>
+<wpt lat="55.458317" lon="-131.830733"><name>Point Higgins</name></wpt>
+<wpt lat="55.547783" lon="-132.097433"><name>Niblack Point</name></wpt>
+<wpt lat="55.738983" lon="-132.255667"><name>Myers Chuck</name></wpt>
+<wpt lat="55.974417" lon="-132.008567"><name>Change Island</name></wpt>
+<wpt lat="56.225300" lon="-131.931717"><name>Blake Island</name></wpt>
+<wpt lat="56.474983" lon="-132.389367"><name>Wrangell</name></wpt>
+<wpt lat="56.719567" lon="-132.742350"><name>Mitkof Island</name></wpt>
+<wpt lat="56.813817" lon="-132.956717"><name>Petersburg</name></wpt>
+<wpt lat="57.057233" lon="-133.018067"><name>Northwest of Thomas Bay</name></wpt>
+<wpt lat="57.225583" lon="-133.532183"><name>Whitney Island</name></wpt>
+<wpt lat="57.427167" lon="-133.452000"><name>Hobart Bay</name></wpt>
+<wpt lat="57.678250" lon="-133.662267"><name>Sand Bay</name></wpt>
+<wpt lat="57.932233" lon="-133.845417"><name>Point Anmer</name></wpt>
+<wpt lat="58.171033" lon="-134.085317"><name>North of Slocum Inlet</name></wpt>
+<wpt lat="58.306000" lon="-134.431150"><name>Juneau</name></wpt>
+<wpt lat="58.377517" lon="-134.726133"><name>Auke Bay Campground</name></wpt>
+<wpt lat="58.678417" lon="-134.986283"><name>Bridget Point</name></wpt>
+<wpt lat="58.819183" lon="-135.118350"><name>South of Point Sherman</name></wpt>
+<wpt lat="58.939200" lon="-135.174283"><name>Onshore near Eldred Rock</name></wpt>
+<wpt lat="59.235133" lon="-135.441367"><name>Haines</name></wpt>
+<wpt lat="59.450550" lon="-135.316917"><name>Skagway</name></wpt>
+</gpx>
